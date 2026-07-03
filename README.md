@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Akwey Satnalika.<br><br>I'm a Software Engineer passionate about building <br>scalable applications and solving real-world problems <br>through code. I enjoy working with Python, Java, C++, React, <br>and AI/ML, and I'm always learning new technologies and <br>building interesting projects.
+👋 Hi, I'm Akwey Satnalika.<br><br>I'm a Software Engineer passionate about building scalable applications and solving real-world problems through code. I enjoy working with Python, Java, C++, React, and AI/ML, and I'm always learning new technologies and building interesting projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akwey-satnalika)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satnalikaakwey@gmail.com) 
 
